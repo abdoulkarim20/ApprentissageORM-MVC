@@ -18,9 +18,9 @@ $config = Setup::createAnnotationMetadataConfiguration(array(__DIR__ . "/src/ent
 // database configuration parameters
 $conn = array(
     'dbname' => 'RimkaMVC',
-    'username' => 'karim',
-    'password' => 'Passer@1234',
-    'host' => 'localhost',
+    'username' => 'root',
+    'password' => 'Fooly@1251',
+    'host' => '127.0.0.1',
     'driver' => 'pdo_mysql',
 );
 
